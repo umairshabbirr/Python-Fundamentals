@@ -1,0 +1,11 @@
+# Program: NumPy Arrays
+# Purpose: To create and display NumPy arrays
+
+import numpy as np
+
+# Create array from list
+arr = np.array([10, 20, 30, 40, 50])
+
+print("NumPy Array:", arr)
+print("Data Type:", arr.dtype)
+print("Array Shape:", arr.shape)
