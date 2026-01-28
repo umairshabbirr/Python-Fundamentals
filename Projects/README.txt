@@ -53,8 +53,7 @@ FUTURE IMPROVEMENTS:
 - Mobile or Web version
 
 DEVELOPER:
-Student Name: M Umair
-Roll No: 239
-Semester: BSAI
+Name: M Umair
 Subject: Artificial intelligence 
+
 
