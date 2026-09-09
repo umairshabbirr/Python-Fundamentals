@@ -1,0 +1,5 @@
+m=float(input("enter the value of m"))
+v=float(input("enter the value of v"))
+ke=0.5*m*(v**2)
+print(int(ke))
+#print(f"k.e={int(ke) if ke.is_integer() else ke}")
